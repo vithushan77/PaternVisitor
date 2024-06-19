@@ -1,0 +1,17 @@
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/bin/Debug/net8.0/Visitor
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/bin/Debug/net8.0/Visitor.deps.json
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/bin/Debug/net8.0/Visitor.runtimeconfig.json
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/bin/Debug/net8.0/Visitor.dll
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/bin/Debug/net8.0/Visitor.pdb
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/obj/Debug/net8.0/Visitor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/obj/Debug/net8.0/Visitor.AssemblyInfoInputs.cache
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/obj/Debug/net8.0/Visitor.AssemblyInfo.cs
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/obj/Debug/net8.0/Visitor.csproj.CoreCompileInputs.cache
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/obj/Debug/net8.0/Visitor.dll
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/obj/Debug/net8.0/refint/Visitor.dll
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/obj/Debug/net8.0/Visitor.pdb
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/obj/Debug/net8.0/Visitor.genruntimeconfig.cache
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/obj/Debug/net8.0/ref/Visitor.dll
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/obj/Debug/net8.0/Visitor.csproj.AssemblyReference.cache
+/Users/vithushan/Desktop/Code/DesignPatern/Visitor/Visitor/obj/Debug/net8.0/Visitor.csproj.Up2Date
